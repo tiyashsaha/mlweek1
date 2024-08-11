@@ -1,3 +1,6 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
 # Sample data
 data = [23, 45, 56, 78, 213, 45, 67, 89, 56, 34, 23, 45, 67, 89, 45, 67, 89, 100]
 
